@@ -1,0 +1,38 @@
+body{
+    background-image: url(./pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+section{
+    height: 600px;
+    width: 400px;
+    background-color: white;
+    border-radius: 20px;
+}
+img{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+p{
+    font-size: 30px;
+}
+div{
+    font-size: 15px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.b1{
+    background-color: blue;
+    color: white;
+    height: 40px;
+    width: 300px;
+    border-radius: 8px;
+}
+.b2{
+    background-color: white;
+    color: grey;
+    width: 200px;
+    height: 40px;
+    border: 0px;
+    font-size: 15px;
+}
